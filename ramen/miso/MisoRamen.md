@@ -4,6 +4,7 @@
 
 Rezept:
 [Miso Ramen](./MisoRamenRecipe.md)
+[Cashu](./CashuRecipe.md)
 
 Ursprung:
 Rezept Miso Suppe [JustOneCookbook](https://www.justonecookbook.com/homemade-chashu-miso-ramen/)<br>
