@@ -2,6 +2,10 @@
 
 ###### <div style="text-align: right">Marcus & Fabian 27.10.2023</div>
 
+Rezept:
+[Miso Ramen](./MisoRamenRecipe.md)
+
+Ursprung:
 Rezept Miso Suppe [JustOneCookbook](https://www.justonecookbook.com/homemade-chashu-miso-ramen/)<br>
 Rezept Cashu [JustOneCookbook](https://www.justonecookbook.com/homemade-chashu/)
 
